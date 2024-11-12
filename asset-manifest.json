@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sado8sh/quizz-app/static/css/main.0774df08.css",
+    "main.js": "/sado8sh/quizz-app/static/js/main.fef29a64.js",
+    "static/media/qcm.png": "/sado8sh/quizz-app/static/media/qcm.d225f917919ce6186242.png",
+    "index.html": "/sado8sh/quizz-app/index.html",
+    "main.0774df08.css.map": "/sado8sh/quizz-app/static/css/main.0774df08.css.map",
+    "main.fef29a64.js.map": "/sado8sh/quizz-app/static/js/main.fef29a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0774df08.css",
+    "static/js/main.fef29a64.js"
+  ]
+}
